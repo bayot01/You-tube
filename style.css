@@ -1,0 +1,43 @@
+header div {
+    display: inline-block;
+}
+
+.fa-youtube {
+    margin-left: 20px;
+} 
+
+.left span {
+    font-weight: bold;
+}
+
+.center {
+    margin-left: 200px;
+}
+
+.chegara {
+    border: 1px solid #ccc;
+    padding: 5px;
+    /* width: 300px; */
+}
+
+input {
+    border: none;
+    width: 500px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.lupa {
+    padding: 6px 20px;
+    margin-left: -4px;
+}
+
+.right {
+    margin-left: 200px;
+}
+
+.right i {
+    margin: 15px;
+}
