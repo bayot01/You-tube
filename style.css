@@ -76,6 +76,110 @@ iframe {
     border-radius: 50%;
 }
 
+.button {
+    margin-left: 520px;
+    float: right;
+}
+
+.aria {
+    clear: both;
+}
+
+.daf {
+    background-color: #cc0000;
+    color: #ffffff;
+    margin: 0px 4px;
+    padding: 10px 16px;
+    border: none;
+    /* outline: none; */
+    /* font-weight: bold; */
+    /* text-transform: uppercase; */
+}
+
+.rasm,
+.csp {
+    display: inline-block;
+}
+
+.csp,
+.button {
+    display: inline-block;
+}
+
+.metr {
+    margin: 0 100px;
+}
+
+.yashil {
+    color: grey;
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+.psc {
+    margin-bottom:0px;
+}
+
+.sp {
+   margin-top: 0px;
+}
+
+.nik {
+    border-radius: 50%;
+}
+/* 
+.apple,
+.hp {
+    display: inline-block;
+} */
+
+.apple {
+    width: 80px;
+    float: left;
+    margin-top: 10px;
+}
+
+.hp {
+    width: 720px;
+    float: right;
+}
+
+.red {
+    margin-bottom: 0px;
+}
+
+.pink {
+    margin-top: 2px;
+}
+
+.fas {
+    margin-right: 15px;
+}
+
+.valera {
+    font-weight: bold;
+}
+
+.ism {
+    clear: both;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
